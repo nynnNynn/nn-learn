@@ -1,0 +1,1 @@
+import{_ as a,o as r,c as e,ae as d}from"./chunks/framework.RRduUuAx.js";const f=JSON.parse('{"title":"学习笔记","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),o={name:"index.md"};function n(i,t,s,l,h,c){return r(),e("div",null,[...t[0]||(t[0]=[d("",7)])])}const m=a(o,[["render",n]]);export{f as __pageData,m as default};

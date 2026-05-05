@@ -1,25 +1,22 @@
----
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
+# 学习笔记
 
-hero:
-  name: "NN Love Learning"
-  text: "宁宁爱学习"
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+这是个人知识库的骨架示例：顶部导航按**大学科**分区，左侧目录列出各学科下的**具体专题**。以下内容均为占位示例，可随时替换为你的真实笔记。
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
+## 学科分区
 
+| 分区 | 说明 |
+|------|------|
+| [计算机科学](/cs/) | 算法、数据结构、机器学习等 |
+| [数学](/math/) | 分析、代数等 |
+| [语言文学](/literature/) | 文本精读与写作备忘 |
+| [经济与管理](/economics/) | 微观观念与简单模型 |
+| [生命科学](/medicine/) | 基础生理与概念梳理 |
+| [艺术与设计](/arts/) | 视觉语言与实践备忘 |
+
+## 使用习惯（示例）
+
+1. **每周复盘**：把碎片链接收敛到一个专题页。
+2. **一页一主题**：长文拆成多篇，侧边栏会更清晰。
+3. **统一命名**：文件夹与路径用小写英文 slug，标题用中文。
+
+从任意顶部导航进入学科首页，再在左侧选择具体条目即可。

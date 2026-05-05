@@ -7,6 +7,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
+      { text: 'LC', link: '/leetcode/' },
       { text: '计算机科学', link: '/cs/' },
       { text: '数学', link: '/math/' },
       { text: '语言文学', link: '/literature/' },

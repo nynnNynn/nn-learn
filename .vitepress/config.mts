@@ -8,6 +8,8 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: 'LC', link: '/leetcode/' },
+      { text: '面经', link: '/interview/' },
+      { text: 'JS', link: '/javascript/' },
     ],
 
     sidebar: {

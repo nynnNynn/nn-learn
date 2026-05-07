@@ -13,16 +13,16 @@ export default defineConfig({
     ],
 
     sidebar: {
-      // '/cs/': [
-      //   {
-      //     text: '计算机科学',
-      //     items: [
-      //       { text: '学科概览', link: '/cs/' },
-      //       { text: '数据结构复习', link: '/cs/data-structures' },
-      //       { text: '机器学习入门', link: '/cs/ml-intro' }
-      //     ]
-      //   }
-      // ],
+      '/javascript/': [
+        {
+          text: 'JS手写题',
+          items: [
+            { text: '概览', link: '/javascript/' },
+            { text: '整体大纲', link: '/javascript/main' },
+          ]
+        }
+      ],
+      
     },
 
     socialLinks: []
